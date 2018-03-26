@@ -1,5 +1,8 @@
 # Late Fusion of Compact Local Indexing and Deep Feature Aggregation Scores for Fast Image-To-Video Search on Large-Scale Databases
 
+
+<img src="retrieval.png">
+
 * Our paper is accepted to IEEE ICME 2018 as Oral.
 * Full paper will be released soon.
 * Updated ground-truth annotations for Stanford I2V Full and Light datasets are available. Please cite the following references.
