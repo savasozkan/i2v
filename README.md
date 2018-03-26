@@ -1,10 +1,10 @@
 # Late Fusion of Compact Local Indexing and Deep Feature Aggregation Scores for Fast Image-To-Video Search on Large-Scale Databases
 
-Updated ground-truth annotations for Stanford I2V Full and Light datasets are available. Please cite following references.
+Updated ground-truth annotations for Stanford I2V Full and Light datasets are available. Please cite the following references.
 
 ## References
 
-Please cite the following paper:
+Please cite the following papers:
 
 [1] Savas Ozkan and Gozde Bozdagi Akar, Late Fusion of Compact Local Indexing and Deep Feature Aggregation Scores for Fast Image-To-Video Search on Large-Scale Databases, IEEE International Conference on Multimedia Expo (ICME), 2018.
 
